@@ -1,0 +1,22 @@
+* commit b4f84874d0cfb66021aa6796be5c501f276db5ea (HEAD -> release, origin/main, main)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 19:24:08 2023 +0800
+|
+|     Initial commit
+|
+* commit 9d34b3effc605cc4eb683ddd7e43f631e55ebfac (tag: v1.0, feature, develop)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 17:56:05 2023 +0800
+|
+|     Added rain
+|
+* commit e48a14c6ff046b2a35a4190fdcea38fface4a590 (master)
+| Author: Сюй Хао <xu1141013184@163.com>
+| Date:   Sun Dec 24 17:54:44 2023 +0800
+|
+|     Initial commit
+|
+* commit 1946ec2b5c541571576677e9a5da62ee72d42216
+  Author: Сюй Хао <xu1141013184@163.com>
+  Date:   Sun Dec 24 17:53:57 2023 +0800
+
